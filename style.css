@@ -1,1 +1,72 @@
+body {
+  background-color: #dcdcdc;
+  color: rgb(30,30,30);
+  font-family: Verdana, Tahoma, Georgia; 
+  margin: 8% 10% 10% 10%;   
+}
+  
+h1 {
+  text-align: center; 
+  color: #000000;
+  text-decoration-line: underline;
+   
+}
+
+.addr{
+  text-align: center;
+  line-height:0.2;
+  Margin-top:8%;
+}
+
+.meat1{
+  text-align: center;
+  margin-top: 10%;
+}
+
+.qual{
+  margin-top:8%; 
+  border-block: medium groove #daa520;
+  inline-size: fit-content;
+  background-color: #c0c0c0;
+  animation: navy 5s infinite;
+}
+
+table.qual1{
+  table-layout: fixed;
+  width: 100%;
+}
+
+.proexp{
+  margin-top:8%;
+  border-block: medium groove #daa520;
+  inline-size:fit-content;
+  background-color: #c0c0c0;
+  animation: navy 5s infinite;
+}
+
+h5{
+  border:thin outset #000080; 
+}
+
+.emphis{
+  margin-top:8%; 
+  border-block: medium groove #daa520;
+  inline-size: fit-content;
+  background-color: #c0c0c0;
+  animation: navy 5s infinite;
+  
+}
+
+.edu{
+  margin-top:8%; 
+  border-block: medium groove #daa520;
+  inline-size:fit-content;
+  background-color: #c0c0c0;
+  animation: navy 5s infinite;
+  
+}
+
+@keyframes navy {
+  50%{border-block:medium groove #000080 }
+}
 
