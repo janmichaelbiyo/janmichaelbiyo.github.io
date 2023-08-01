@@ -45,7 +45,8 @@ table.qual1{
 }
 
 h5{
-  border:thin outset #000080; 
+  border:thin outset #000080;
+  inline-size: fit-content;
 }
 
 .emphis{
@@ -69,4 +70,3 @@ h5{
 @keyframes navy {
   50%{border-block:medium groove #000080 }
 }
-
